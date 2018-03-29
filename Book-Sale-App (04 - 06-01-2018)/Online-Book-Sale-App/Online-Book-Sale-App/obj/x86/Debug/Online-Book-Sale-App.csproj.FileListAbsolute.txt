@@ -1,0 +1,17 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\x86\Debug\BookShop.mdf
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\x86\Debug\BookShop_log.ldf
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\x86\Debug\Online-Book-Sale-App.exe.config
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\x86\Debug\Online-Book-Sale-App.exe
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\x86\Debug\Online-Book-Sale-App.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\x86\Debug\EntityFramework.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\x86\Debug\EntityFramework.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\x86\Debug\Online_Book_Sale_App.Adminpanel.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\x86\Debug\Online_Book_Sale_App.Form1.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\x86\Debug\Online_Book_Sale_App.Properties.Resources.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\x86\Debug\Online-Book-Sale-App.csproj.GenerateResource.Cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\x86\Debug\Online-Book-Sale-App.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\x86\Debug\Online-Book-Sale-App.exe
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\x86\Debug\Online-Book-Sale-App.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\x86\Debug\Online-Book-Sale-App.csprojResolveAssemblyReference.cache

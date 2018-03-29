@@ -1,0 +1,43 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\Online-Book-Sale-App.exe
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\BookShop.mdf
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\BookShop_log.ldf
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\Online-Book-Sale-App.exe.config
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\EntityFramework.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\EntityFramework.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.Adminpanel.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.Form1.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.Properties.Resources.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.csproj.GenerateResource.Cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.exe
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\Online-Book-Sale-App.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.AdminpanelLogged.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.AddBook.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.RemoveBook.resources
+C:\Users\Gamer\Desktop\C# Codes\2018\January\04-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.UpdateBook.resources
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\BookShop.mdf
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\BookShop_log.ldf
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\Online-Book-Sale-App.exe.config
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\Online-Book-Sale-App.exe
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\Online-Book-Sale-App.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\EntityFramework.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\EntityFramework.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.csprojResolveAssemblyReference.cache
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.AddBook.resources
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.Adminpanel.resources
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.AdminpanelLogged.resources
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.Form1.resources
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.Properties.Resources.resources
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.RemoveBook.resources
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online_Book_Sale_App.UpdateBook.resources
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.csproj.GenerateResource.cache
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.csproj.CoreCompileInputs.cache
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.csproj.CopyComplete
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.exe
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\1. January\04-01-2018 - 08-01-2018\Online-Book-Sale-App\Online-Book-Sale-App\obj\Debug\Online-Book-Sale-App.pdb
